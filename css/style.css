@@ -1,0 +1,28 @@
+
+.page {
+}
+.page__block {
+}
+h1 {
+    margin: 0;
+    background-color: rgb(164, 103, 221);
+    border-radius: 0.3125rem;
+    padding: 0.625rem;
+}
+.block-lesson-23 {
+}
+.block-lesson-23__container {
+    max-width: 50%;
+    padding: 0.9375rem;
+    border-radius: 0.625rem;
+    margin: 0 auto;
+    background-color: rgb(145, 129, 160);
+}
+.block-lesson-23__video {
+    background-color: rgb(105, 80, 129);
+    border-radius: 0.3125rem;
+    padding: 0.625rem;
+}
+.block-lesson-23__text {
+    
+}
